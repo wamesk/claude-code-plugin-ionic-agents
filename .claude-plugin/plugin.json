@@ -1,0 +1,9 @@
+{
+  "name": "ionic-agents",
+  "description": "Ionic mobile UI for Claude Code. Ships the wame-ionic-ui skill: it detects Vue, React or Angular and the Ionic major from the project, then gives a modern, deliberate look instead of the stock Ionic style (theming, native-feeling patterns, screen states and accessibility). An Ionic developer agent comes in a later release.",
+  "author": {
+    "name": "Stanislav Červeňák",
+    "email": "info@wame.sk"
+  },
+  "version": "0.1.0"
+}
